@@ -1,1 +1,2 @@
 git is a powerful tool to collaborate
+git allows you to combine branches
