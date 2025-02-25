@@ -1,1 +1,6 @@
-we will merge main and duplicate branch
+git allows you to combine branches
+how to use push and pull operations
+
+-----------github interface----------
+
+making changes via github inrerface.
