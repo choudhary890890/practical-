@@ -1,4 +1,4 @@
-git allows you to combine branches
+lit allows you to combine branches
 how to use push and pull operations
 
 -----------github interface----------
